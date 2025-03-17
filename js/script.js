@@ -6,3 +6,6 @@ console.log(chilometri)
 let anni = parseInt(prompt("Inserisci quanti anni hai"));
 console.log(anni)
 
+// calcolo il prezzo del biglietto
+let price = chilometri*0.21;
+console.log(price);
